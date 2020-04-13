@@ -2,9 +2,9 @@
 	import Grayscale from './Grayscale.svelte'
 
 	const imgSrc = [
-		'./img/sample82.jpg',
+		'./img/face.jpg',
 		'./img/sample2.jpg',
-		'./img/sample7.jpg',
+		'./img/sample13.jpg',
 	];
 </script>
 
