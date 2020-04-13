@@ -1,0 +1,18 @@
+canvas {
+  position: absolute;
+}
+
+video {
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
